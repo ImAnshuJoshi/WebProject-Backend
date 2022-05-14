@@ -1,0 +1,1 @@
+Controollers wala issliye use karte hain ki apan function directly export kar paye
