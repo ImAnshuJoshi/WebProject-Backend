@@ -14,7 +14,7 @@
 
 const { Client } = require("pg");
 
-console.log(process.env.SECRET_KEY);
+// console.log(process.env.SECRET_KEY);
 const client = new Client(
   `postgres://zomwxlar:LozhklxQH-iBc9Guw3PAdtiQPtVe7zDR@john.db.elephantsql.com/zomwxlar`
 );
